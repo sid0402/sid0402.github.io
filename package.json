@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://siddhantagarwal.com/",
+  "homepage": "https://github.com/sid0402/mysite",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/sid0402/mysite"
   },
   "engines": {
     "node": ">=16.x"
