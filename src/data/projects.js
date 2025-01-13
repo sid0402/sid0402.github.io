@@ -1,47 +1,44 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
+    title: 'Indian Premier League Simulator',
     subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    link: 'https://x.com/S_Agarwal0402/status/1858448975013310686',
+    image: '/images/projects/ipl-simulator.jpeg',
+    date: '2024-12-20',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      '30,000+ users, 250,000 views on twitter in 1 week. Only cricket simulator available online.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Noma',
+    subtitle: 'Won 1st place in 2015 Techcrunch Disrupt SF Hackathon',
+    link: 'https://devpost.com/software/noma-ug9qxn',
+    image: '/images/projects/noma.jpg',
+    date: '2024-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Won 1st place out of 700+ participants, 200+ teams at HackGT 11. '
+      + 'Received $3000 in funding and backing from Create-X startup incubator.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'CADabra',
+    subtitle: 'AI Powerred Developer Toolkit for all things CAD!',
+    link: 'https://devpost.com/software/cadabra-b0c2oq',
+    image: '/images/projects/cadabra.jpg',
+    date: '2024-10-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Developed at AI ATL 2024. '
+      + 'Allows development of CAD files using text, images, and videos. '
+      + ' Uses Zoo and fine-tuned GPT-4o.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'EduVisor',
+    subtitle: 'AI-powered feedback for teachers',
+    image: '/images/projects/eduvisor.jpg',
+    link: 'https://devpost.com/software/eduviser',
+    date: '2023-10-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'An AI-powered feedback tool for teachers. '
+      + 'Analayzes lecture audio and uses past lectures to provide feedback for teachers.',
   },
 ];
 
