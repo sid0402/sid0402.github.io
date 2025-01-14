@@ -6,8 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-      + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'
+      "Siddhant Agarwal's personal website. Third year Computer Science major at the Georgia Institute of Technology."
     }
   >
     <article className="post" id="index">
