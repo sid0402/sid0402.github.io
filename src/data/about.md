@@ -18,7 +18,8 @@ I am very passionate about analyzing sports data, and I often post my analyses o
 - Data
 - Sports (Cricket, Football, Basketball, Tennis)
 - Traveling
-- [Wildlife Photography (from a recent trip to Kenya)](https://drive.google.com/drive/folders/1YZuF_-pr_Y0SlBf1Sgzz6JCkGL1QP7VT?usp=sharing)
 - Podcasts (Joe Rogan Experience, The Economist, Wisden Cricket Weekly, Freakonomics Radio, Lex Fridman Podcast)
 - Books (Currently reading "The Selfish Gene" by Richard Dawkins)
 - Twitter (or more formally, X)
+- Wildlife Photography ([from a recent trip to Kenya](https://drive.google.com/drive/folders/1YZuF_-pr_Y0SlBf1Sgzz6JCkGL1QP7VT?usp=sharing)
+)
