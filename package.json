@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://github.com/sid0402/mysite",
+  "homepage": "sid0402.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sid0402/mysite"
+    "url": "https://github.com/sid0402/sid0402.github.io.git"
   },
   "engines": {
     "node": ">=16.x"
